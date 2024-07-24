@@ -10,20 +10,6 @@
           },    
         "platforms": [
           {
-            "name": "STM32",
-            "architecture": "stm32",
-            "version": "1.0.0",
-            "category": "Contributed",
-            "help": {
-              "online": ""
-            },
-            "url": "https://github.com/nollstead/Arduino_Boards/tree/main/archive/GB_v1.0.0.zip",
-            "archiveFileName": "GB_v1.0.0.zip",
-            "boards": [
-              {"name": "Green Bean"}
-            ]
-          },
-          {
             "name": "ATTINY",
             "architecture": "avr",
             "version": "1.0.0",
