@@ -19,7 +19,7 @@
               },
               "url": "https://github.com/nollstead/Arduino_Boards/tree/main/archive/v1.0.0.zip",
               "archiveFileName": "v1.0.0.zip",
-              "size": "6000",
+              "size": "164724",
               "boards": [
                 {"name": "ATtiny44"},
                 {"name": "ATtiny45"},
