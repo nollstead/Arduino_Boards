@@ -13,12 +13,13 @@
             "name": "ATTINY",
             "architecture": "avr",
             "version": "1.0.0",
-            "category": "attiny",
+            "category": "Contributed",
             "help": {
               "online": ""
             },
             "url": "https://github.com/nollstead/Arduino_Boards/tree/main/archive/v1.0.0.zip",
             "archiveFileName": "v1.0.0.zip",
+            "size": "5005",
             "boards": [
               {"name": "ATtiny44"},
               {"name": "ATtiny45"},
