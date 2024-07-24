@@ -10,7 +10,7 @@
           },    
         "platforms": [
           {
-            "name": "ATTINY",
+            "name": "Nollstead Studio ATTINY Boards",
             "architecture": "avr",
             "version": "1.0.0",
             "category": "Contributed",
@@ -26,7 +26,7 @@
               {"name": "ATtiny45"},
               {"name": "ATtiny84"},
               {"name": "ATtiny85"},
-              {"name": "ATtiny88"}                
+              {"name": "ATtiny88"}           
             ],
             "toolsDependencies": [
               {
